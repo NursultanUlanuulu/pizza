@@ -22,7 +22,7 @@ const nunito = Nunito({
 // });
 
 export const metadata: Metadata = {
-  title: "Create Next App",
+  title: "Dodo pizza",
 };
 
 export default function RootLayout({
